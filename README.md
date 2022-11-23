@@ -10,7 +10,7 @@
 + 雙擊todo進行編輯，Enter儲存修改，Esc返回
 
 ## 專案畫面
-![todo page] (https://github.com/BearK0515/todolist-react/blob/main/image/todo%20page.png)
+![todo page](https://github.com/BearK0515/todolist-react/blob/main/image/todo%20page.png)
 
 ## 使用流程
 
