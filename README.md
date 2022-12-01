@@ -8,6 +8,8 @@
 + 刪除todo
 + 確認 完成/未完成
 + 雙擊todo進行編輯，Enter儲存修改，Esc返回
++ CRUD功能用API串接伺服器
++ 身分驗證
 
 ## 專案畫面
 ![todo page](https://github.com/BearK0515/todolist-react/blob/main/image/todo%20page.png)
