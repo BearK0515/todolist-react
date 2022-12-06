@@ -4,7 +4,6 @@ import {
   Header,
   TodoCollection,
   TodoInput,
-  TodoItem,
 } from 'components';
 import { useEffect } from 'react';
 import { useState } from 'react';
